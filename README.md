@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabrielee</h1>
+<h1 align="center">Hi 👋, I'm Gabriele</h1>
 <h3 align="center">A passionate Junior Developer from Italy</h3>
 
 - 🔭 I’m currently working on [Modis Italia](https://www.modis.com/it-it/)
